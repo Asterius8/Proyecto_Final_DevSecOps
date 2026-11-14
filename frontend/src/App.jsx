@@ -26,7 +26,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         {/* Landing */}
-        {/* Comentario Generico 2 */}
+        {/* Comentario Generico 3 */}
         <Route
           path="/"
           element={
