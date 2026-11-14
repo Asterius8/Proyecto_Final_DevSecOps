@@ -42,7 +42,7 @@ services:
 
   db:
     build: ./db
-    container_name: clinica_db
+    container_name: clinica_CD_db
     environment:
       MYSQL_ROOT_PASSWORD: root_password
     ports:
